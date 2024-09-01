@@ -1,1 +1,1 @@
-This is my QRCodeComponent project from FrontendMentor 8.31.2024
+QRCodeComponent challenge from FrontendMentor built with HTML and CSS [8.31.2024]
